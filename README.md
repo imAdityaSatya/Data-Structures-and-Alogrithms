@@ -1,1 +1,1 @@
-# DataStructures-Alogrithms
+# Data Structures & Alogrithms
