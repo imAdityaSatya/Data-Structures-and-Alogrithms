@@ -1,1 +1,1 @@
-# Data Structures & Alogrithms
+# Data Structures and Alogrithms
